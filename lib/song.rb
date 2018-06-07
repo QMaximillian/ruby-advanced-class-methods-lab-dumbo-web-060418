@@ -93,4 +93,6 @@ class Song
 
 end
 
+Pry.start
+
 
